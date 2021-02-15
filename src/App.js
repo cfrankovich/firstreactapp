@@ -18,13 +18,13 @@ function App() {
     },
     {
       id: 2,
-      text: 'Doctors Appointment',
+      text: 'Doctors Appointment for balls',
       day: 'Feb 16th at 2:30pm',
       reminder: true,
     },
     {
       id: 3,
-      text: 'CSA Homework',
+      text: 'Homework',
       day: 'Feb 19th at 1:10pm',
       reminder: false,
     }
