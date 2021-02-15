@@ -1,2 +1,3 @@
 # 🌀 First Ever React App 🌀
-I'm just following a tutorial! I'm not sure what I will be building but I will update this file once I finish :)
+This is a simple task manager app. I tried to get familiar with the basics of react with this one.
+You can visit the finished product [here](https://cfrankovich.github.io/firstreactapp)!
